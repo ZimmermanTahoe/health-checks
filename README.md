@@ -5,3 +5,6 @@ Adding here few key information items for the upcoming xmas
 3. stop here
 
 Michael - signoff 9:05am
+------------------------
+Adding items on teh Github editors
+signing off 9:15am
