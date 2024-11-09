@@ -1,10 +1,9 @@
---------
-Adding here few key information items for the upcoming xmas
-1. have to complete the committed agenda
-2. Up the skills in AI agnetic framework
-3. stop here
+2. Delete a Repository on GitHub
 
-Michael - signoff 9:05am
+To delete a repository from GitHub:
 
-%%%%%%%%%%%%%%
-More changes in the local machine 9:16am
+	1.	Go to GitHub.com and log in to your account.
+	2.	Navigate to the repository you want to delete.
+	3.	Go to Settings (found in the repository menu).
+	4.	Scroll down to the Danger Zone section and find “Delete this repository”.
+	5.	Click Delete this repository.
